@@ -3,7 +3,7 @@ import os
 from urllib.request import urlretrieve
 import time
 
-flickr_public = "
+flickr_public = ""
 flickr_secret = ""
 wait_time = 1
 
